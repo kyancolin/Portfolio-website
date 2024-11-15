@@ -39,10 +39,6 @@ Feel free to explore the website to learn more about my work and skills. You can
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 You can reach me at inquiresforkyan@gmail.com
